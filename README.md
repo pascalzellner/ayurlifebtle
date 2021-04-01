@@ -1,10 +1,10 @@
 # ayurlifebtle
 
-A new Flutter project.
+A flutter project to use the excellebt Flutter Blue librairy & develop a service in dart to read the heart rate data package from available btle sensors.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Get a btle heart rate sensor, test the APP & the service 
 
 A few resources to get you started if this is your first Flutter project:
 
